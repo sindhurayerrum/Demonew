@@ -9,6 +9,7 @@ public class Gitclass {
 		System.out.println("Hello2");
 		System.out.println("Hello3..");
 		System.out.println("second message");
+		System.out.println("pull code from remote to local");
 
 	}
 
